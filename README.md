@@ -28,3 +28,12 @@
      - A smart home can make things easier but can be hacked
 3. Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
      - The Dopamine issues are real. I used to be distracted by reading books instead of doing my homework and a good schedule helped me address this problem
+#### Tri 3 TPT 0.2 related to Digital Divide Big Idea 5.2
+1. How does someone empower themself in a digital world?
+     - Someone can empower themselves in a digital world by having access to devices like computers, phones, and tablet. Something that will empower people even more is
+     knowledge of cybersecurity and coding.
+2. How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS.
+     - Something we could do at Del Norte HS is teach free coding classes to people who cannot afford such classes/don't have access to them.
+4. Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
+     - Yes, paper and red tape is blocking digital empowerment. At school, the wifi blocks certain websites. In some countries like Russia, the government censors websites and
+     foreign content that impedes on people's digital empowerment.
