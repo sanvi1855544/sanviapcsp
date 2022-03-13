@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Data Structures Project (Documentation, code snippets, links to Github and Replit)
+### (code snippets for learning, links to Github code, replit runtime)
 
-You can use the [editor on GitHub](https://github.com/sanvi1855544/sanvi1855544.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| Task | Replit Runtime Link | Code | 
+| --- | --- | --- |
+| Menu and sub-menu | [Replit runtime](https://replit.com/@sanvipal/menu) | [Commit](https://github.com/sanvi1855544/sanviapcsp/blob/main/templates/menu.py) |
+| Swap | [Replit runtime](https://replit.com/@GennalynBongola/Swap) | [Commit](https://github.com/sanvi1855544/sanviapcsp/blob/main/templates/swap.py) |
+| Keypad | [Replit runtime](https://replit.com/@GennalynBongola/keyboard#main.py) | [Commit](https://github.com/sanvi1855544/sanviapcsp/blob/main/templates/keypad.py) |
+| Christmas Tree | [Replit runtime](https://replit.com/@GennalynBongola/Tree#main.py) | [Commit](https://github.com/sanvi1855544/sanviapcsp/blob/main/templates/Tree.py) |
+| Animation | [Replit runtime](https://replit.com/@GennalynBongola/Boat-Animation-1#main.py) | [Commit](https://github.com/sanvi1855544/sanviapcsp/blob/main/templates/animation.py) |
 
-### Markdown
+![image](https://user-images.githubusercontent.com/89223650/157573109-d423a806-cba4-4b01-95a5-68252827e6bc.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![image](https://user-images.githubusercontent.com/89223650/157573195-1af01281-15a6-4eb0-8fe8-57ac4552dc7f.png)
 
-```markdown
-Syntax highlighted code block
+![image](https://user-images.githubusercontent.com/89223650/157573303-a3ca43c8-39a0-4929-bd40-8cc6686392b9.png)
 
-# Header 1
-## Header 2
-### Header 3
+![image](https://user-images.githubusercontent.com/89223650/157575085-2ee8a6f7-2380-4305-8f8d-e0d1aae34b36.png)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sanvi1855544/sanvi1855544.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
