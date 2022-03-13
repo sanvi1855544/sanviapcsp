@@ -1,4 +1,4 @@
-# Test Prep study
+# Test Prep Study
 
 ## 5.1 Notes
 - The way people complete tasks changes to incorporate new computing innovations
