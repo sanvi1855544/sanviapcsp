@@ -21,3 +21,10 @@
 ## Github Pages Actions
 ### Week 1 TPT Actions
 
+#### Tri 3 TPT 0.1 related to Beneficial and Harmful Effects of Computing Big Idea 5.1
+1. Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
+     - When the computer saves your password, you won't have to worry about forgetting it but your computer is easier to hack
+     - Online AP exams are great in a pandemic but not accessible to those affected by the Digital Divide
+     - A smart home can make things easier but can be hacked
+3. Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
+     - The Dopamine issues are real. I used to be distracted by reading books instead of doing my homework and a good schedule helped me address this problem
