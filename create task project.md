@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Create Task Project
+### (intentions, snippets, links to runtime)
 
-You can use the [editor on GitHub](https://github.com/sanvi1855544/sanvi1855544.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[PBL Create Performance Task (Hangman Game)](http://54.153.91.79/Hangman/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+![image](https://user-images.githubusercontent.com/72752116/158079648-e79a6e22-cd33-4c8e-873d-00d2b4c528d9.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Original Issue](https://github.com/sanvi1855544/p3-avatar/issues/42)
 
-```markdown
-Syntax highlighted code block
+**Create Performance Task Description and Outline**
+Components:
+- [Program code](https://github.com/sanvi1855544/p3-avatar/blob/main/templates/Hangman.html)
+- [Video](https://drive.google.com/file/d/1jzVEzDg98GVJy71GLtC4TgW_0gPTZEuE/view?usp=sharing)
+- [Written response](https://docs.google.com/document/d/1pSAqPrdru8p5v9sU7csL_tyJAvifw9apmTwlzlhcn08/edit#bookmark=id.c1w7u41tat44)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sanvi1855544/sanvi1855544.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Requirements:**
+- input and output
+- use [list/array](https://github.com/sanvi1855544/p3-avatar/commit/cd300c3ad6206ff10f52c61fd1fbb00893d1201c#diff-b339e4cebe930b668f721caf36733a1a94f08a7485073725eb93e5f2925d7b20R208-R210)
+- make and use a student-developed procedure/function that contains an algorithm and includes sequencing, [selection](https://github.com/sanvi1855544/p3-avatar/blob/d893581c788e757be33bae44aaef6509e6232958/templates/Hangman.html#L248-L256), [iteration](https://github.com/sanvi1855544/p3-avatar/blob/d893581c788e757be33bae44aaef6509e6232958/templates/Hangman.html#L235-L244)
