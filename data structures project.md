@@ -4,13 +4,16 @@
 
 | Task | Replit Runtime Link | Code | 
 | --- | --- | --- |
-| Menu and sub-menu | [Replit runtime](https://replit.com/@sanvipal/menu) | [Commit](https://github.com/sanvi1855544/sanviapcsp/blob/main/templates/menu.py) |
-| Swap | [Replit runtime](https://replit.com/@GennalynBongola/Swap) | [Commit](https://github.com/sanvi1855544/sanviapcsp/blob/main/templates/swap.py) |
-| Keypad | [Replit runtime](https://replit.com/@GennalynBongola/keyboard#main.py) | [Commit](https://github.com/sanvi1855544/sanviapcsp/blob/main/templates/keypad.py) |
+| Menu and sub-menu | [Replit runtime](https://replit.com/@sanvipal/menu?v=1#main.py) | [Commit](https://github.com/sanvi1855544/sanviapcsp/blob/main/templates/menu.py) |
+| Swap | [Replit runtime](https://replit.com/@sanvipal/Swap?v=1#main.py) | [Commit](https://github.com/sanvi1855544/sanviapcsp/blob/main/templates/swap.py) |
+| Keypad | [Replit runtime](https://replit.com/@sanvipal/keyboard?v=1#main.py) | [Commit](https://github.com/sanvi1855544/sanviapcsp/blob/main/templates/keypad.py) |
 | Christmas Tree | [Replit runtime](https://replit.com/@GennalynBongola/Tree#main.py) | [Commit](https://github.com/sanvi1855544/sanviapcsp/blob/main/templates/Tree.py) |
 | Animation | [Replit runtime](https://replit.com/@GennalynBongola/Boat-Animation-1#main.py) | [Commit](https://github.com/sanvi1855544/sanviapcsp/blob/main/templates/animation.py) |
 
-![image](https://user-images.githubusercontent.com/89223650/157573109-d423a806-cba4-4b01-95a5-68252827e6bc.png)
+![image](https://user-images.githubusercontent.com/72752116/158081557-b57a3f70-aa80-4987-961a-69be34b7e7d3.png)
+![image](https://user-images.githubusercontent.com/72752116/158081663-6b842b50-4b4d-437f-abe7-45807233ecda.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/89223650/157573195-1af01281-15a6-4eb0-8fe8-57ac4552dc7f.png)
 
