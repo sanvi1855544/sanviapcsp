@@ -22,6 +22,18 @@
 - The digital divde raises issues of equity, access, and infuence, both globally and locally
 - The digital divide raises issues of equity, access, and influence, both globally and locally
 - The digital divide is affected by the actions of individuals, organization, and governments
+## 5.3 Notes
+- Computing innocations can reflect existing human biases because of biases written into the algorithms or biases in the data used by the innovation
+- Programmers should take action to reduce bias in algorithms used for computing innovations as a way of combating existing human biases
+- Biases can be embedded at all levels of software development
+## 5.4 Notes
+- Widespread access to information and public data facilitates the identification of problems, developments of solutions, and dessemination of results
+- Science has been affect by using distributed and "citizen science" to solve scientific problems
+- Citizen science is scientific research conducted in whole or part by distributed individuals, many of whom may not be scienctists, who contribute relevant data to research using their own computing devices
+- Crowdsourcing is the practice of obtaining input or information from a large number of people via the internet
+- Human capabilities can be enhanced by collaboration via computing
+- Crowdsourcing offers new models for collaboration, such as connecting businesses or social causes with funding
+
 ## Github Pages Actions
 ### Week 1 TPT Actions
 
@@ -42,4 +54,8 @@
      - Yes, paper and red tape is blocking digital empowerment. At school, the wifi blocks certain websites. In some countries like Russia, the government censors websites and
      foreign content that impedes on people's digital empowerment.
 #### Tri 3 TPT 1.0 Computing Bias 5.3
-     No, the owner does not thought think it was intentional. This is because whe felt that the raicsm is caused by the lack of diversity in the developers. The HP functionality worked out this way because most coders are males and white and when coding, they were using themselves as a testing data set. This is harmful because it is not representative of the World Population. It wasn't not intended to be harmful though. It should be correct. We can increase the scope and racial diversity of the data to produce a better outcome
+No, the owner does not thought think it was intentional. This is because whe felt that the raicsm is caused by the lack of diversity in the developers. The HP functionality worked out this way because most coders are males and white and when coding, they were using themselves as a testing data set. This is harmful because it is not representative of the World Population. It wasn't not intended to be harmful though. It should be correct. We can increase the scope and racial diversity of the data to produce a better outcome
+#### Tri 3 TPT 1.1 Crowdsourcing 5.4
+1. CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?
+One Crowdsource idea is to work together to make an AP CSP forum where students can get rapid feedback on their code.
+2. Del Norte crowsources with grading through the peer grading process that AP science classes use. My final project could be better with crowsourcing as if I got more people to research how to code the forum, it would create a resource where many people can help others in a short frame of time. 
