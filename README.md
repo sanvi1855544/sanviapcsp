@@ -41,3 +41,5 @@
 4. Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
      - Yes, paper and red tape is blocking digital empowerment. At school, the wifi blocks certain websites. In some countries like Russia, the government censors websites and
      foreign content that impedes on people's digital empowerment.
+#### Tri 3 TPT 1.0 Computing Bias 5.3
+     No, the owner does not thought think it was intentional. This is because whe felt that the raicsm is caused by the lack of diversity in the developers. The HP functionality worked out this way because most coders are males and white and when coding, they were using themselves as a testing data set. This is harmful because it is not representative of the World Population. It wasn't not intended to be harmful though. It should be correct. We can increase the scope and racial diversity of the data to produce a better outcome
