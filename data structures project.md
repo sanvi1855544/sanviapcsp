@@ -2,13 +2,11 @@
 ### (code snippets for learning, links to Github code, replit runtime)
 
 
-| Task | Replit Runtime Link | Code | 
+| Task | Replit Runtime Link | Code Commit | 
 | --- | --- | --- |
-| Menu and sub-menu | [Replit runtime](https://replit.com/@sanvipal/menu?v=1#main.py) | [Commit](https://github.com/sanvi1855544/sanviapcsp/blob/main/templates/menu.py) |
-| Swap | [Replit runtime](https://replit.com/@sanvipal/Swap?v=1#main.py) | [Commit](https://github.com/sanvi1855544/sanviapcsp/blob/main/templates/swap.py) |
-| Keypad | [Replit runtime](https://replit.com/@sanvipal/keyboard?v=1#main.py) | [Commit](https://github.com/sanvi1855544/sanviapcsp/blob/main/templates/keypad.py) |
-| Christmas Tree | [Replit runtime](https://replit.com/@sanvipal/Tree?v=1#main.py) | [Commit](https://github.com/sanvi1855544/sanviapcsp/blob/main/templates/Tree.py) |
-| Animation | [Replit runtime](https://replit.com/@sanvipal/animation?v=1#main.py) | [Commit](https://github.com/sanvi1855544/sanviapcsp/blob/main/templates/animation.py) |
+| Menu and sub-menu with all the code assignments | [Replit runtime](https://replit.com/@sanvipal/Menu?v=1) | [Commit]() |
+
+{% include datastructuresproject.html %}
 
 ![image](https://user-images.githubusercontent.com/72752116/158081557-b57a3f70-aa80-4987-961a-69be34b7e7d3.png)
 ![image](https://user-images.githubusercontent.com/72752116/158081663-6b842b50-4b4d-437f-abe7-45807233ecda.png)

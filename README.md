@@ -1,6 +1,8 @@
 # Week 0 Review Ticket
 ## [REVIEW TICKET Individual Jekyll Pages](https://github.com/sanvi1855544/sanviapcsp/issues/1)
 
+# Week 1 Review Ticket
+## [REVIEW TICKET LISTS/LOOPS]()
 
 # Test Prep Study
 
