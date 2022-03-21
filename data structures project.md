@@ -2,10 +2,6 @@
 ### (code snippets for learning, links to Github code, replit runtime)
 
 
-| Task | Replit Runtime Link | Code Commit | 
-| --- | --- | --- |
-| Menu and sub-menu with all the code assignments | [Replit runtime](https://replit.com/@sanvipal/Menu?v=1) | [Commit](https://github.com/sanvi1855544/sanviapcsp/commit/9828accdd4f1bb55516d68dd4371d79359e48e62) |
-
 {% include datastructuresproject.html %}
 
 ![image](https://user-images.githubusercontent.com/72752116/158081557-b57a3f70-aa80-4987-961a-69be34b7e7d3.png)
