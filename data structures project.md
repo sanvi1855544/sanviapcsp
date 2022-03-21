@@ -1,7 +1,4 @@
-## Data Structures Project (Documentation, code snippets, links to Github and Replit)
-### (code snippets for learning, links to Github code, replit runtime)
-
-
+## Data Structures Project 
 {% include datastructuresproject.html %}
 
 ![image](https://user-images.githubusercontent.com/72752116/158081557-b57a3f70-aa80-4987-961a-69be34b7e7d3.png)
