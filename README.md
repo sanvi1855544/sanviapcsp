@@ -36,9 +36,30 @@
 - Human capabilities can be enhanced by collaboration via computing
 - Crowdsourcing offers new models for collaboration, such as connecting businesses or social causes with funding
 ![image](https://user-images.githubusercontent.com/72752116/158456964-7ba254f6-64f7-4b20-9ba8-2f54ef5af87e.png)
-
-
-
+## 5.5 Notes
+- Material made on a computer is intellectual property of the creator or organization
+- Ease of access and distribution of digitized information raises intellectual property concernss regarding ownership, value and use
+- Measures should be taken to safeguard intellectual property
+- The use of material created by someone else without permission and presented as one's own plagiarism and may have legal consequences
+- Some examples of legal ways to use materials created by someone else include:
+     - Creative Commons - a public copyright license that enables the free distribution of an otherwise copyrighted work. This is used the the content creator wants to give others the right to share, use, and build upon the work they have created
+     - open source - online research outputs free of any and all restrictions on access and free of many restrictions on use, such as copyright or license restrictions
+-the use of material made by someone should be cited
+-Creative Commons, open source and open access have enavled broad access to digital information
+- Legal and ethical concerns when using computing to harm individuals or groups
+- Computing can play role in social and political issues 
+- Digital Divide causes ethical concerns about computing
+- Streaming software = legal and ethical concerns
+## 5.6 Notes
+- Personally identifiable information is infomration about an individual that finds links, relates or describes them
+- Search engines can record history of searches
+- Websites can record and maintain a history of individuals who have viewed their pages
+- Devices, websites, and networks can collect information about a user's location
+- Technology enables the collected, use, and exploitation of information
+- A malicious link can be disguised on web page or email
+- phishing, keylogging, rogue access point are something to be wary of
+- unsolicited emails, attachments, links and forms in emails can be used to compromise the security of a system
+- untrustworthy (often free) downloads can have malware.
 ## Github Pages Actions
 ### Week 1 TPT Actions
 
