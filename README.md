@@ -4,6 +4,9 @@
 # Week 1 Review Ticket
 ## [REVIEW TICKET Lists/Loops](https://github.com/sanvi1855544/sanviapcsp/issues/2)
 
+# Week 2 Review Ticket
+## [REVIEW TICKET Classy Function]
+
 # Test Prep Study
 
 ## 5.1 Notes
