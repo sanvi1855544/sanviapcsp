@@ -68,7 +68,7 @@
      - When the computer saves your password, you won't have to worry about forgetting it but your computer is easier to hack
      - Online AP exams are great in a pandemic but not accessible to those affected by the Digital Divide
      - A smart home can make things easier but can be hacked
-3. Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
+2. Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
      - The Dopamine issues are real. I used to be distracted by reading books instead of doing my homework and a good schedule helped me address this problem
 
 #### Tri 3 TPT 0.2 related to Digital Divide Big Idea 5.2
