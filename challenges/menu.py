@@ -4,21 +4,21 @@ main_menu = []
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 week0_sub_menu = [
-    ["Swap", "python_menu_challenges/week_0/swap.py"],
-    ["Christmas", "python_menu_challenges/week_0/christmastree.py"],
-    ["Keypad", "python_menu_challenges/week_0/keypad.py"],
-    ["Ship", "python_menu_challenges/week_0/ship.py"],
+    ["Swap", "challenges/week0/swap.py"],
+    ["Christmas", "challenges/week0/holidaybush.py"],
+    ["Keypad", "challenges/week0/keypad.py"],
+    ["Ship", "challenges/week0/ship.py"],
 ]
 
 week1_sub_menu = [
-    ["Fibonacci", "python_menu_challenges/week_1/fibonacci.py"],
-    ["Lists", "python_menu_challenges/week_1/lists_and_loops.py"],
+    ["Fibonacci", "challenges/week1/fibonacci.py"],
+    ["Lists", "challenges/week1/listyloopy.py"],
 ]
 
 week2_sub_menu = [
-    ["Factorials", "python_menu_challenges/week_2/factorial.py"],
-    ["Factors", "python_menu_challenges/week_2/factors_num.py"],
-    ["Palindrome", "python_menu_challenges/week_2/palindrome.py"],
+    ["Factorials", "challenges/week2/factorial.py"],
+    ["Factors", "challenges/week2/factors.py"],
+    ["Palindrome", "challenges/week2/palindrome.py"],
 
 
 
