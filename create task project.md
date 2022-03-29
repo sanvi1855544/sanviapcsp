@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 ## Create Task Project
 ### (intentions, snippets, links to runtime)
 
