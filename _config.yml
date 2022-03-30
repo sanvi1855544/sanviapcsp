@@ -3,5 +3,8 @@ title: Sanvi's Jekyll Page
 description: Easy to access project updates!
 email: sanvi11929@gmail.com
 webserver: "sanvi1855544.github.io.com"
-font: native
-font_size: M
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: L
