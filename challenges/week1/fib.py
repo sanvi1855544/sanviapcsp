@@ -1,8 +1,3 @@
-#Fibonacci's Sequence
-# 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...
-
-#Instructions:
-#See hack 3 above, Fibonacci(For Fibonacci(n) print complete list 0 - n and not just the nth term)
 
 def run_sum():
 

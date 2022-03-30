@@ -2,14 +2,6 @@
 def ship():
     import time
 
-    ANSI_CLEAR_SCREEN = u"\u001B[2J"
-    ANSI_HOME_CURSOR = u"\u001B[0;0H\u001B[2"
-    OCEAN_COLOR = u"\u001B[44m\u001B[2D"
-    SHIP_COLOR1 = u"\033[0;31m"
-    SHIP_COLOR2 = u"\033[0;35m"
-    SHIP_COLOR3 = u"\033[0;93m"
-    RESET_COLOR = u"\u001B[0m\u001B[2D"
-
     def ocean_print():
         print(ANSI_CLEAR_SCREEN, ANSI_HOME_CURSOR)
         print("\n\n\n\n\n")
@@ -39,10 +31,8 @@ def ship():
     step = -1
 
 
-
-
     for position in range(start, distance, step):
-        ship_print(position)  # call to function with parameter
+        ship_print(position)
         time.sleep(0.01)
 
 print("hello")

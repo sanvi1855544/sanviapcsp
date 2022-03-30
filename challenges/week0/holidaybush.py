@@ -9,7 +9,7 @@ def tree():
         print()
 
 
-    c = "****"
+    c = "####"
     spaces = "                  "
     stem = spaces + c
     for i in range(3):
