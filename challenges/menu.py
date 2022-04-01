@@ -1,3 +1,4 @@
+from subprocess import call
 
 main_menu = []
 
@@ -91,4 +92,5 @@ def buildMenu(banner, options):
         print(f"Invalid choice: {choice}")
     buildMenu(banner, options)
 if __name__ == "__main__":
-    menu()
+  call(["python", "challenges/animation.py"])  
+  menu()
