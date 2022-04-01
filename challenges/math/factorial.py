@@ -11,4 +11,6 @@ class Factorial:
 
 factorial_of_n = Factorial()
 n = int(input("n = "))
-print(factorial_of_n(n))
+
+if __name__ == "__main__":
+  print(factorial_of_n(n))

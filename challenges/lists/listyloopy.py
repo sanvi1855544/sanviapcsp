@@ -1,6 +1,6 @@
 #See hack 1 above, InfoDB lists
 #See hack 2 above, InfoDB loops
-def tester():
+def driver():
     # List with dictionary records placed in a list
     InfoDb = []
 
@@ -77,6 +77,6 @@ def tester():
     print("recursive loop")
     recursive_loop(0)
 
-
-tester()
+if __name__ == "__main__":
+  driver()
 

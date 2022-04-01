@@ -1,5 +1,5 @@
 
-def run_sum():
+def driver():
 
     list = []
 
@@ -23,4 +23,4 @@ def run_sum():
     get_sum(n)
     print("the sequence is", list)
 
-run_sum()
+driver()

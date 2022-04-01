@@ -1,5 +1,5 @@
 
-def ship():
+def driver():
     import time
 
     ANSI_CLEAR_SCREEN = u"\u001B[2J"
@@ -44,4 +44,4 @@ def ship():
         time.sleep(0.05)
 
 print("hello")
-ship()
+driver()
