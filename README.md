@@ -7,6 +7,10 @@
 # Week 2 Review Ticket
 ## [REVIEW TICKET Classy Function](https://github.com/sanvi1855544/sanviapcsp/issues/4)
 
+# Week 3 Review Ticket
+## [REVIEW TICKET Algo Final](https://github.com/sanvi1855544/sanviapcsp/issues/5)
+
+
 # Test Prep Study
 
 ## 5.1 Notes
