@@ -9,8 +9,11 @@ class Factorial:
             self.fact.append(fact_number)
         return self.fact[n]
 
-factorial_of_n = Factorial()
-n = int(input("n = "))
+def driver():
+    factorial_of_n = Factorial()
+    n = int(input("n = "))
+    print(factorial_of_n(n))
+
 
 if __name__ == "__main__":
-  print(factorial_of_n(n))
+    driver()

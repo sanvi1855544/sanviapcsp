@@ -43,5 +43,6 @@ def driver():
         ship_print(position)
         time.sleep(0.05)
 
-print("hello")
-driver()
+if __name__ == "__main__":
+    print("hello")
+    driver()

@@ -54,7 +54,7 @@ class Palindrome:
         return self._analysis
 
 #Palindrome Tester code, 3 words at time
-if __name__ == "__main__":
+def driver():
     word1 = input("Enter a word: ")
     word2 = input("Enter another word: ")
     word3 = input("Enter another another word: ")
@@ -63,7 +63,8 @@ if __name__ == "__main__":
     for l in ls:
         print(l.candidate, l.isPalindrome, l.tests, l.analysis)
 
-
+if __name__ == "__main__":
+    driver()
 # Tester Code (initial referencing fibonacci code
 #if __name__ == "__main__":
  #   '''Value for testing'''

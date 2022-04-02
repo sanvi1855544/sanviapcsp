@@ -15,4 +15,5 @@ def driver():
     for i in range(3):
         print(stem)
 
-driver()
+if __name__ == "__main__":
+    driver()

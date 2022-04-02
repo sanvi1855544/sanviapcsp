@@ -1,25 +1,28 @@
-from subprocess import call
-
+#from subprocess import call
+from week0 import holidaybush, keypad, ship, swap
+from week1 import fib, listyloopy
+from week2 import animation, factorial, factors, palindrome
 main_menu = []
 
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 week0_sub_menu = [
-    ["Swap", "challenges/math/swap.py"],
-    ["Christmas", "challenges/patterns/holidaybush.py"],
-    ["Keypad", "challenges/math/keypad.py"],
-    ["Ship", "challenges/patterns/ship.py"],
+    ["Swap", swap.driver],
+    ["Christmas", holidaybush.driver],
+    ["Keypad", keypad.driver],
+    ["Ship", ship.driver],
 ]
 
 week1_sub_menu = [
-    ["Fibonacci", "challenges/math/fib.py"],
-    ["Lists", "challenges/lists/listyloopy.py"],
+    ["Fibonacci", fib.driver],
+    ["Lists", listyloopy.driver],
 ]
 
 week2_sub_menu = [
-    ["Factorials", "challenges/math/factorial.py"],
-    ["Factors", "challenges/math/gcd.py"],
-    ["Palindrome", "challenges/patterns/palindrome.py"],
+    ["Factorials", factorial.driver],
+    ["Factors", factors.driver],
+    ["Animation", animation.load_animation],
+    ["Palindrome", palindrome.driver],
 
 
 
@@ -91,6 +94,6 @@ def buildMenu(banner, options):
     except UnboundLocalError:
         print(f"Invalid choice: {choice}")
     buildMenu(banner, options)
+
 if __name__ == "__main__":
-  call(["python", "challenges/animation.py"])  
   menu()
