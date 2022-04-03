@@ -77,6 +77,4 @@ def driver():
     print("recursive loop")
     recursive_loop(0)
 
-if __name__ == "__main__":
-  driver()
 

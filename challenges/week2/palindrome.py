@@ -63,8 +63,7 @@ def driver():
     for l in ls:
         print(l.candidate, l.isPalindrome, l.tests, l.analysis)
 
-if __name__ == "__main__":
-    driver()
+
 # Tester Code (initial referencing fibonacci code
 #if __name__ == "__main__":
  #   '''Value for testing'''

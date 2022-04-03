@@ -13,6 +13,3 @@ def driver():
     print(swap())
 
     print(age1,age2)
-
-if __name__ == "__main__":
-    driver()

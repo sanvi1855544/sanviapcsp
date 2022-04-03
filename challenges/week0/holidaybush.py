@@ -14,6 +14,3 @@ def driver():
     stem = spaces + c
     for i in range(3):
         print(stem)
-
-if __name__ == "__main__":
-    driver()

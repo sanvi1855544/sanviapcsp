@@ -13,7 +13,3 @@ def driver():
     factorial_of_n = Factorial()
     n = int(input("n = "))
     print(factorial_of_n(n))
-
-
-if __name__ == "__main__":
-    driver()

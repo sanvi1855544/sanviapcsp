@@ -22,6 +22,3 @@ def driver():
     n = int(input("n = "))
     get_sum(n)
     print("the sequence is", list)
-
-if __name__ == "__main__":
-    driver()
