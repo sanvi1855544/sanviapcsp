@@ -1,7 +1,7 @@
 from subprocess import call
-from lists import listyloopy
-from mymath import factorial, factors, keypad, swap
-from patterns import fib, holidaybush, palindrome, ship
+from week0 import holidaybush, keypad, ship, swap  
+from week1 import fib, listyloopy 
+from week2 import factorial, factors, palindrome 
 
 class bcolors:
     OKBLUE = '\033[94m'
@@ -13,21 +13,21 @@ main_menu = []
 
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
-week0_sub_menu = [
-    ["Swap", swap.driver],
-    ["Christmas", holidaybush.driver],
-    ["Keypad", keypad.driver],
-    ["Ship", ship.driver],
+lists_sub_menu = [
+    ["Lists", listyloopy.driver],   
 ]
 
-week1_sub_menu = [
+math_sub_menu = [
     ["Fibonacci", fib.driver],
-    ["Lists", listyloopy.driver],
-]
-
-week2_sub_menu = [
+    ["Swap", swap.driver],
+    ["Keypad", keypad.driver],
     ["Factorials", factorial.driver],
     ["Factors", factors.driver],
+]
+
+patterns_sub_menu = [
+    ["Christmas", holidaybush.driver],
+    ["Ship", ship.driver],
     ["Palindrome", palindrome.driver],
 ]
 
@@ -38,24 +38,24 @@ banner = f"\n{border}\nplease pick one\n{border}"
 def menu():
     title = "function menu" + banner
     menu_list = main_menu.copy()
-    menu_list.append([bcolors.OKBLUE + "Week 0" + bcolors.ENDC, week0])
-    menu_list.append([bcolors.OKGREEN + "Week 1" + bcolors.ENDC, week1])
-    menu_list.append([bcolors.OKCYAN + "Week 2" + bcolors.ENDC, week2])
+    menu_list.append([bcolors.OKBLUE + "Lists" + bcolors.ENDC, week0])
+    menu_list.append([bcolors.OKGREEN + "Math" + bcolors.ENDC, week1])
+    menu_list.append([bcolors.OKCYAN + "Patterns" + bcolors.ENDC, week2])
 
     buildMenu(title, menu_list)
 
 
 def week0():
     title = "function submenu" + banner
-    buildMenu(title, week0_sub_menu)
+    buildMenu(title, lists_sub_menu)
 
 def week1():
     title = "Function Submenu" + banner
-    buildMenu(title, week1_sub_menu)
+    buildMenu(title, math_sub_menu)
 
 def week2():
     title = "Function Submenu" + banner
-    buildMenu(title, week2_sub_menu)
+    buildMenu(title, patterns_sub_menu)
 
 def buildMenu(banner, options):
     print(banner)
