@@ -12,7 +12,8 @@
 ## 5.1 Notes
 - The way people complete tasks changes to incorporate new computing innovations
 - Not every effect of computing innovation is anticipated in advance
-- A signle effect can be viewed as beneficial and harmful (like drones)
+- A single effect can be viewed as beneficial and harmful (like drones)
+- UAVs/drones are used in search & rescue, aerial photography, and for hobbies but also have unintended uses
 - Advances in computing have sparked creativity in other fields
 - World Wide Web was originally intended for rapid and easy exchange of information 
 - Targeted advertising is used to help businesses and can be misused at both individual and aggregate levels 
@@ -23,14 +24,15 @@
 - Computing innoivation have often had unintended beneficial effects by leading to advances in other fields
 ## 5.2 Notes
 - Internet access varies between socioeconomic, geographic, and demographic characteristics, as well as between countries
+- Poorer or rural areas in America and other countries may have less or little access to technology
 - The "digital divide" refers to differing access to computing devices and the Internet, based on socioeconomic, geographic, or demographic characteristics
 - The digital divde raises issues of equity, access, and infuence, both globally and locally
-- The digital divide raises issues of equity, access, and influence, both globally and locally
 - The digital divide is affected by the actions of individuals, organization, and governments
 ## 5.3 Notes
 - Computing innocations can reflect existing human biases because of biases written into the algorithms or biases in the data used by the innovation
 - Programmers should take action to reduce bias in algorithms used for computing innovations as a way of combating existing human biases
 - Biases can be embedded at all levels of software development
+- Biased HP face tracking feature was most likely unintentional because developers may not have had diverse skin colors/flawed testing
 ## 5.4 Notes
 - Widespread access to information and public data facilitates the identification of problems, developments of solutions, and dessemination of results
 - Science has been affect by using distributed and "citizen science" to solve scientific problems
@@ -38,6 +40,7 @@
 - Crowdsourcing is the practice of obtaining input or information from a large number of people via the internet
 - Human capabilities can be enhanced by collaboration via computing
 - Crowdsourcing offers new models for collaboration, such as connecting businesses or social causes with funding
+- more crowdsourcing = less computing bias
 ![image](https://user-images.githubusercontent.com/72752116/158456964-7ba254f6-64f7-4b20-9ba8-2f54ef5af87e.png)
 ## 5.5 Notes
 - Material made on a computer is intellectual property of the creator or organization
@@ -54,7 +57,8 @@
 - Digital Divide causes ethical concerns about computing
 - Streaming software = legal and ethical concerns
 ## 5.6 Notes
-- Personally identifiable information is infomration about an individual that finds links, relates or describes them
+- Personally identifiable information is information about an individual that finds links, relates or describes them
+- Personally Identifiable Info (PII): information specific to individual, ex: social security #, age, DOB
 - Search engines can record history of searches
 - Websites can record and maintain a history of individuals who have viewed their pages
 - Devices, websites, and networks can collect information about a user's location
