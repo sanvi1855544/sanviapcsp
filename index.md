@@ -5,6 +5,6 @@ layout: default
 
 [![Picture](/compsci.jpg)](/compsci.jpg)
 
-![GIF](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![GIF](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
 
 {% include_relative README.md %}
