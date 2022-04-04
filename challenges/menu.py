@@ -1,7 +1,7 @@
 from subprocess import call
-from week0 import holidaybush, keypad, ship, swap
-from week1 import fib, listyloopy
-from week2 import factorial, factors, palindrome
+from lists import listyloopy
+from mymath import factorial, factors, keypad, swap
+from patterns import fib, holidaybush, palindrome, ship
 
 class bcolors:
     OKBLUE = '\033[94m'
