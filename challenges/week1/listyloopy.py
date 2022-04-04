@@ -1,10 +1,10 @@
 #See hack 1 above, InfoDB lists
 #See hack 2 above, InfoDB loops
 def driver():
-    # List with dictionary records placed in a list
-    InfoDb = []
+    # List with dictionary records placed in a list  
+  InfoDb = []
 
-    InfoDb.append({
+  InfoDb.append({
         "FirstName": "Sanvi",
         "LastName": "Pal",
         "Favorite Number": "8",
@@ -13,7 +13,7 @@ def driver():
         "Favorite_subjects":["CSP", "Discrete", "Stats", "Gov"]
     })
 
-    InfoDb.append({
+  InfoDb.append({
         "FirstName": "John",
         "LastName": "Mortensen",
         "Favorite Number": "21",
@@ -22,7 +22,7 @@ def driver():
         "Favorite_subjects":["Math", "Science", "English", "Art"]
     })
 
-    InfoDb.append({
+  InfoDb.append({
         "FirstName": "Sunny",
         "LastName": "Naidu",
         "Favorite Number": "2",
@@ -31,8 +31,7 @@ def driver():
         "Favorite_subjects":["A","B","C"]
     })
 
-
-    def print_data(n):
+  def print_data(n):
         print(InfoDb[n]["FirstName"], InfoDb[n]["LastName"])
         print("\t", "Classes: ", end="")
         print(", ".join(InfoDb[n]["Favorite_subjects"]))
@@ -45,36 +44,46 @@ def driver():
     #returns a sequence of numbers
 
 
-    def for_loop():
+  def for_loop():
         for n in range(3):
             print_data(n)
 
-    print("for loop")
-    for_loop()
+  print("for loop")
+  for_loop()
 
     #while loop
     #statements execute until the required statements change logic (t/f)
-    def while_loop():
+  def while_loop():
         n = 0
         while n < 3:
             print_data(n)
             n += 1
 
-    print("while loop")
-    while_loop()
+  print("while loop")
+  while_loop()
 
     #recursive loop
     #calls itself.
     #needs to have exit condition
 
-    def recursive_loop(n):
+  def recursive_loop(n):
         if n < len(InfoDb):
             print_data(n)
             n +=1
             recursive_loop(n)
         return
 
-    print("recursive loop")
-    recursive_loop(0)
+  print("recursive loop")
+  recursive_loop(0)
+
+  #searches for an item in a list based on index
+  def search():
+    term = int(input("Enter your search term number:"))
+    if term<3:
+      print_data(term)
+    else:
+      search()
+  
+  search()
 
 
