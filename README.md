@@ -7,31 +7,29 @@
 # Week 2 Review Ticket
 ## [REVIEW TICKET Classy Function](https://github.com/sanvi1855544/sanviapcsp/issues/4)
 
-# Test Prep Study
-
 ## Weekly Study Plan
 
-# Monday
+## Monday
  - Do Unit 1 Barron's practice MC problems
  - Correct MC and reflect
 
-# Tuesday
+## Tuesday
  - Do the MC at school
  - Correct the MC and reflect
 
-# Wednesday
+## Wednesday
  - Do Unit 2 Barron's practice MC problems
  - Correct MC and reflect
 
-# Thursday
+## Thursday
  - Do Unit 3 Barron's practice MC problems
  - Correct MC and reflect
 
-# Friday
+## Friday
  - Do Unit 4 Barron's practice MC problems
  - Correct MC and reflect
 
-
+# Test Prep Study
 
 ## 5.1 Notes
 - The way people complete tasks changes to incorporate new computing innovations
