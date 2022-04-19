@@ -9,6 +9,30 @@
 
 # Test Prep Study
 
+## Weekly Study Plan
+
+# Monday
+ - Do Unit 1 Barron's practice MC problems
+ - Correct MC and reflect
+
+# Tuesday
+ - Do the MC at school
+ - Correct the MC and reflect
+
+# Wednesday
+ - Do Unit 2 Barron's practice MC problems
+ - Correct MC and reflect
+
+# Thursday
+ - Do Unit 3 Barron's practice MC problems
+ - Correct MC and reflect
+
+# Friday
+ - Do Unit 4 Barron's practice MC problems
+ - Correct MC and reflect
+
+
+
 ## 5.1 Notes
 - The way people complete tasks changes to incorporate new computing innovations
 - Not every effect of computing innovation is anticipated in advance
