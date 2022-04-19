@@ -1,12 +1,3 @@
-# Week 0 Review Ticket
-## [REVIEW TICKET Individual Jekyll Pages](https://github.com/sanvi1855544/sanviapcsp/issues/1)
-
-# Week 1 Review Ticket
-## [REVIEW TICKET Lists/Loops](https://github.com/sanvi1855544/sanviapcsp/issues/2)
-
-# Week 2 Review Ticket
-## [REVIEW TICKET Classy Function](https://github.com/sanvi1855544/sanviapcsp/issues/4)
-
 ## Weekly Study Plan
 
 ## Monday
@@ -28,6 +19,16 @@
 ## Friday
  - Do Unit 4 Barron's practice MC problems
  - Correct MC and reflect
+
+
+# Week 0 Review Ticket
+## [REVIEW TICKET Individual Jekyll Pages](https://github.com/sanvi1855544/sanviapcsp/issues/1)
+
+# Week 1 Review Ticket
+## [REVIEW TICKET Lists/Loops](https://github.com/sanvi1855544/sanviapcsp/issues/2)
+
+# Week 2 Review Ticket
+## [REVIEW TICKET Classy Function](https://github.com/sanvi1855544/sanviapcsp/issues/4)
 
 # Test Prep Study
 
