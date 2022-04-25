@@ -1,8 +1,6 @@
 {% include navigation.html %}
 
-## Extra Credit 
-
-
+# Extra Credit
 ## Triton Activity Notes
 
 Airframe Subteam - designs and builds aircraft
