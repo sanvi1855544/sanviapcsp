@@ -58,3 +58,28 @@ Test 2: 45/60
 
 ![img.png](img.png)
 
+1. 
+Correct Answer - D: the efficiency of a solution that can be brokek down into parallel protions is still limited by a sequential portion
+
+Reflection: I put B: Any solution can be broken down into smaller and smaller portions, making the improvement in efficiency theoretically limitless as long as there are enough processors available. but this is wrong because the efifcieny will eventually be limited by the sequential portion. D is correct because it recognizes that parallel computing is limited by the parallel portion and sequential portion.
+
+25.
+Correct Answer - C: Users of the application may see health benefits as a result of the application encouraging them to excercise with each other. 
+
+Reflection: I put B: Users of the application may be able to easily identify all other users in a particular area as a result of the application's algorithm for determining whether users are compatible. This is wrong because the application only sends notification to compatible users nearby. App cannot identify users not in the area. C is right because the app can connect users with other users nearby that encourages users to exercise together (improves user health)
+
+
+29.
+Correct Answer - A: Points of interest may be more densely located in cities, favoring players in urban areas over players in rural areas.
+
+Reflection: I put C:Special items may not be useful to all players, favoring players in urban areas over players in rural areas. This is wrong because the special items are not affected by the players' locations. A is correct because urban areas would have more points of interest and so people living in these urban areas can more access to benefits.
+
+40.
+Correct Answer - D: The image analysis is likely to take a longer time for the research team than for a distributed group of individuals.
+
+Reflection: I put A: Distributed individuals are likely to be more accurate in wildlife identification than the research team. This is wrong because the work may be amateur and may not have the same accuracy as professional researchers. However, the distributed group can be faster (this is the benefit of crowdsourcing)
+
+47.
+Correct Answer - A: Participants who read more were generally more likely to say they are interested in the application.
+
+Reflection: I put B: Participants who read more were generally less likely to say they are interested in the application. This is wrong because those who read more are more likely to say they are interested in the application. A is correct (pay attention to what symbols actually mean). 
