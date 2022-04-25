@@ -2,7 +2,7 @@
 
 ## Test Corrections 
 
-Test 1: 44/60
+Test 1: 44/50
 
 ![img_1.png](img_1.png)
 
@@ -54,7 +54,7 @@ Correct Answer - A: 2
 Reflection: I put B: 3 which is wrong because 2 is the minimum. 3 would prevent communication between A and F but this is not min. Look at the nodes of the destination. There are 2 notes. Removing the connections between C and F and between F and H will prevent A and F from communicating.
 
 
-Test 2: 45/60
+Test 2: 45/50
 
 ![img.png](img.png)
 
