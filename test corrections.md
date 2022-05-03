@@ -83,3 +83,34 @@ Reflection: I put A: Distributed individuals are likely to be more accurate in w
 Correct Answer - A: Participants who read more were generally more likely to say they are interested in the application.
 
 Reflection: I put B: Participants who read more were generally less likely to say they are interested in the application. This is wrong because those who read more are more likely to say they are interested in the application. A is correct (pay attention to what symbols actually mean). 
+
+Test 3: 45/50
+
+![image](https://user-images.githubusercontent.com/72752116/166516357-578187e6-4ac5-4968-a44e-5a629b4419bc.png)
+
+6. 
+Correct Answer - A and D
+
+Reflection: I only chose answer A. The algorithm for D works as well because the numbers 1-20 are displayed. The number increments to 21 but that causes the algorithm to terminate.
+
+7. 
+Correct Answer - D
+
+Reflection: I chose A- The procedure returns nothing because it will not terminate. This is wrong, the algo is without error and returns a value. The procedure sets the result to 1 and j to 2. The procedure would return the sum of the integers from 1 to n.
+
+21. 
+Correct Answer - D
+
+Reflection: I chose A which is wrong because overwhelming a system with requests in order to deny service can be done regardless of password strength. 
+
+31. 
+Correct Answer - B 
+
+Reflection: I chose D which is wrong because the distance between two numbers cannot be obtained by taking the difference between the AV of the numbers
+
+47. 
+Correct Answer - A and D
+
+Reflection: I only chose A but D also works. This code segment sets bonus to score * 10 when score > 100, sets bonus to score when 100 ≥ score ≥ 50, and sets bonus to 0 when score < 50.
+
+
