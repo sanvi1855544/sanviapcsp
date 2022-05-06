@@ -113,5 +113,7 @@ Correct Answer - A and D
 
 Reflection: I only chose A but D also works. This code segment sets bonus to score * 10 when score > 100, sets bonus to score when 100 ≥ score ≥ 50, and sets bonus to 0 when score < 50.
 
+Test 5: 50/50
+
 ![image](https://user-images.githubusercontent.com/72752116/167197508-19e4de14-a1ce-404f-9788-00f933378aaf.png)
 
